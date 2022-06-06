@@ -47,7 +47,8 @@ googleMap: GoogleMap?, -> Google Map's Instance
 
   
 ----------------------- TO CLEAR MAP ------------------------------------------
-  use this method instead of map.clear()
+  
+use this method instead of map.clear()
   
 fun GoogleMap.clearMap()
   
